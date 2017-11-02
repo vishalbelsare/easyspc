@@ -1,0 +1,8 @@
+README.txt
+setup.py
+easyspc/__init__.py
+easyspc.egg-info/PKG-INFO
+easyspc.egg-info/SOURCES.txt
+easyspc.egg-info/dependency_links.txt
+easyspc.egg-info/requires.txt
+easyspc.egg-info/top_level.txt

@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: easyspc
+Version: 0.0.2
+Summary: Sparse Principal Components computation based on data matrix SVD
+Home-page: https://github.com/aboyker/easyspc
+Author: Alexandre Boyker
+Author-email: alainalain328@gmail.com
+License: Apache2
+Description: UNKNOWN
+Platform: UNKNOWN
