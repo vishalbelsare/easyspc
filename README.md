@@ -13,10 +13,10 @@ pip install PyWavelets
 
 ### Installing
 
-To install spc-svd you can just use pip
+To install easyspc you can just use pip
 
 ```
-pip install spc-svd
+pip install easyspc
 ```
 ## Example
 
@@ -25,5 +25,10 @@ pip install spc-svd
 
 
 ```
-TO DO
+>>> import numpy as np
+>>> from easyspc import SPC
+>>> X_ = np.random.normal(size=(1000,2000))
+>>> spc = SPC( 4, max_iter=10, threshold_val=1.5 )
+>>> U, V, W = spc.fit(X_)
+>>> X_low_rank_approximation = spc.transform(X_)
 ```
