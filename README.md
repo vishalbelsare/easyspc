@@ -21,7 +21,7 @@ pip install easyspc
 ## Example
 
 
-### Computation of SVD and low rank approximation
+### Computation of sparse principal components and sparse low rank approximation
 
 
 ```
