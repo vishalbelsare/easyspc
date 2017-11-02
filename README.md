@@ -22,8 +22,10 @@ pip install easyspc
 
 
 ### Computation of sparse principal components and sparse low rank approximation
-U is the learnt left singular vectors matrix
+U is the learnt left singular vectors matrix 
+
 V is the learnt right singular vectors matrix (the sparse approximation of the covariance matrix eigenvectors)
+
 W is the matrix containing the standard estimation of the covariance matrix eigenvectors
 
 ```
