@@ -4,9 +4,9 @@ This package implements the sparse principal components algorithm developed by S
 
 This implementation is faster and easier than the one proposed in [Scikit learn](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.SparsePCA.html#sklearn.decomposition.SparsePCA). Please check the [post on my blog](https://smartparrot.wordpress.com/2017/09/30/spca/) if you want more information about this method. There is also a Jupyter notebook file that shows how SPCA can be used on images to detect objects of interest.
 
-##Getting started
+## Getting started
 Besides a recent version of Numpy, the PyWavelets package is required in order to perform thresholding operations
-###Prerequisites
+### Prerequisites
 ```
 pip install PyWavelets
 ```
