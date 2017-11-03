@@ -18,10 +18,10 @@ To install easyspc you can just use pip
 ```
 pip install easyspc
 ```
-## Example
+## Usage
 
 
-### Computation of sparse principal components and sparse low rank approximation
+### Simple example of sparse principal components computation and sparse low rank-approximation on synthetic data
 U is the learnt left singular vectors matrix 
 
 V is the learnt right singular vectors matrix (the sparse approximation of the covariance matrix eigenvectors)
@@ -36,6 +36,9 @@ W is the matrix containing the standard estimation of the covariance matrix eige
 >>> U, V, W = spc.fit(X_)
 >>> X_low_rank_approximation = spc.transform(X_)
 ```
+### Elaborate example: low-rank approximation of images using the algorithm implemented in this package.
+
+See my [blog post](https://smartparrot.wordpress.com/2017/09/30/spca/) and the associated [notebook](https://github.com/aboyker/easyspc/blob/master/spc-notebook.ipynb)
 
 ## Documentation
 
