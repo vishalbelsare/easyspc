@@ -36,5 +36,10 @@ W is the matrix containing the standard estimation of the covariance matrix eige
 >>> U, V, W = spc.fit(X_)
 >>> X_low_rank_approximation = spc.transform(X_)
 ```
+
+## Documentation
+
+[wiki](https://github.com/aboyker/easyspc/wiki
+
 ## Source
 Sparse principal component analysis via regularized low rank matrix approximation. Haipeng Shena, Jianhua Z.Huang
