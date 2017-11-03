@@ -21,7 +21,7 @@ pip install easyspc
 ## Usage
 
 
-### Simple example of sparse principal components computation and sparse low rank-approximation on synthetic data
+### Simple example of sparse principal components computation and sparse low-rank approximation on synthetic data
 U is the learnt left singular vectors matrix 
 
 V is the learnt right singular vectors matrix (the sparse approximation of the covariance matrix eigenvectors)
