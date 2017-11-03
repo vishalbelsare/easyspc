@@ -39,7 +39,7 @@ W is the matrix containing the standard estimation of the covariance matrix eige
 
 ## Documentation
 
-[wiki](https://github.com/aboyker/easyspc/wiki
+[wiki](https://github.com/aboyker/easyspc/wiki)
 
 ## Source
 Sparse principal component analysis via regularized low rank matrix approximation. Haipeng Shena, Jianhua Z.Huang
