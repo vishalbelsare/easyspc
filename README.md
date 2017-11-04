@@ -38,7 +38,7 @@ W is the matrix containing the standard estimation of the covariance matrix eige
 ```
 ### Elaborate example: low-rank approximation of images using the algorithm implemented in this package.
 
-See my [blog post](https://smartparrot.wordpress.com/2017/09/30/spca/) and the associated [notebook](https://github.com/aboyker/easyspc/blob/master/spc-notebook.ipynb)
+See my [blog post](https://smartparrot.wordpress.com/2017/09/30/spca/) and the associated [notebook](https://github.com/aboyker/easyspc/blob/master/examples/spc-notebook.ipynb)
 
 ## Documentation
 
